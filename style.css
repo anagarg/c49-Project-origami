@@ -1,0 +1,11 @@
+h1{
+    color: blueviolet;
+}
+.facts{
+    display: flex;
+    justify-content: left;
+    color: rgb(250, 83, 83); 
+}
+.info{
+    justify-content: left;
+}
