@@ -1,25 +1,29 @@
 h1{
-    color: blueviolet;
+    color: #8a2be2;
 }
 .facts1{
     display: flex;
     justify-content: left;
-    color: darkgreen; 
+    color: #006400; 
+    margin: 0px;
 }
 .facts2{
     display: flex;
     justify-content: left;
-    color: darkblue; 
+    color: #00008b; 
+    margin: 0px;
 }
 .facts3{
     display: flex;
     justify-content: left;
-    color: rgb(255, 153, 0); 
+    color: #ff9900; 
+    margin: 0px;
 }
 .facts4{
     display: flex;
     justify-content: left;
-    color: rgb(255, 0, 0); 
+    color: #ff0000; 
+    margin: 0px;
 }
 
 .info{
