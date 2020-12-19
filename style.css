@@ -27,5 +27,25 @@ h1{
 }
 
 .info{
-    justify-content: left;
+    justify-content: right;
+    padding: 30px;
+}
+a:link{
+    color: #00ff00;
+}
+a:visited{
+    color: #1a3199;
+}
+.item{
+    position: relative;
+}
+.item p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+}
+.item:hover p{
+    opacity: 1;
 }
